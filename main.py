@@ -1,3 +1,3 @@
 CAC = input()
 print(CAC)
-print(CAC + 'cic')
+print(CAC + 'cicA')

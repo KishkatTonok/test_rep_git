@@ -1,0 +1,2 @@
+CAC = input()
+print(CAC)
